@@ -33,4 +33,7 @@ Rename this main directory 'train' as illustrated.
 <strong>Split percentage </strong> refers to the training and validation split. Enter a float value between 0 and 1. Enter 0.8 if you want 20% of the images to be split into the validation, leaving 80% in the training folder. <br>
 <strong>Verbose</strong> refers to the text printed when the script is run. Enter 1 for more text and 0 for none. Leave blank for a default of 1. <br>
 
+### Example:
+python dir_splitter.py 0.8 1
+
 <strong>ONLY RUN THIS SCRIPT ONCE! BACKUP YOUR DATASET BEFORE USING!</strong>
