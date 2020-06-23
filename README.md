@@ -18,7 +18,7 @@ class distribution for training and validation is the same.
 |<br>
 ├── validation<br>
 |---├── class1<br>
-|-------├── img1.jpg<br>
+|-------├── img3.jpg<br>
 │---└── class2<br>
 The script generates the validation folder
 
